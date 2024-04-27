@@ -22,3 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+design/images/image-header-mobile.jpg
+design/images/image-header-desktop.jpg
+design/images/favicon-32x32.png
+design/style-guide.md
+design/README.md
+design/README-template.md
+design/index.html
+design/.gitignore
