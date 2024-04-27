@@ -6,8 +6,8 @@ export default function Container() {
         <div className="container_app">
             <div className='image-container'>
                 <div className='overlay'></div>
-                <img className='imgMobile' src={headerImgMobile} />
-                <img className='imgDesktop' src={headerImgDesktop} />
+                <img className='imgMobile' src={headerImgMobile} alt='brainstorming womens'/>
+                <img className='imgDesktop' src={headerImgDesktop} alt='brainstorming womens'/>
             </div>
 
             <div className="info-card">
